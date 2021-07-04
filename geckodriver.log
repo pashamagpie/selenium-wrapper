@@ -1,0 +1,31 @@
+1618346790819	geckodriver	INFO	Listening on 127.0.0.1:33499
+1618346791831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLVLJQV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618346797364	Marionette	INFO	Listening on port 44985
+1618346797485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618346801017	Marionette	INFO	Stopped listening on port 44985
+1618346907479	geckodriver	INFO	Listening on 127.0.0.1:46659
+1618346908486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0hScLf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618346913261	Marionette	INFO	Listening on port 33939
+1618346913333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1618346915380	Marionette	INFO	Stopped listening on port 33939
+1618347907488	geckodriver	INFO	Listening on 127.0.0.1:57351
+1618347908498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNiJEFz"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:121855): GLib-GObject-CRITICAL **: 00:05:10.840: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:121872): GLib-GObject-CRITICAL **: 00:05:11.083: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618347912775	Marionette	INFO	Listening on port 40773
+
+(/usr/lib/firefox/firefox:121940): GLib-GObject-CRITICAL **: 00:05:12.858: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618347912875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1618347914933	Marionette	INFO	Stopped listening on port 40773
